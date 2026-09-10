@@ -1,0 +1,12 @@
+One= input('Enter your first grade:')
+One= float (One)
+Two= input('Enter your second grade:')
+Two= float (Two)
+Three= input('Enter your third grade:')
+Three= float (Three)
+Four= input('Enter your fourth grade:')
+Four= float (Four)
+Five= input('Enter your fifth grade:')
+Five= float (Five)
+total= (One+Two+Three+Four+Five)/5
+print ('Your average grade is:', total)

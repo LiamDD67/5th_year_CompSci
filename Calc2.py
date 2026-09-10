@@ -1,0 +1,6 @@
+N1= input ('enter your frist number:')
+N1= float (N1)
+N2= input ('enter your second number:')
+N2= float (N2)
+total= (N1+N2)
+print ('your total is:', total)
