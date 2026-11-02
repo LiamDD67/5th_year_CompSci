@@ -1,1 +1,13 @@
+Question 1 - the intention was that you would code up all the combinations
 
+Question 2 - great
+
+Question 3 - please learn off how to do this. It is in the Operators in Python - Housekeeping pdf
+
+Question 4 - great
+
+Question 5 - The code runs but the formula for Area is incorrect, and the wrong variable is in the print statement
+
+Question 6 - great
+
+Question 7 - Could you have another go at this.
